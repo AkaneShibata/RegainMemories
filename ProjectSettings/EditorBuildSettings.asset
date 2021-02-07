@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TOP.unity
     guid: 563dbc4cdfab2034aafb80214c55fb11
+  - enabled: 1
+    path: Assets/Scenes/StageList.unity
+    guid: 4173aafff007ebe4795dc3d9a286b53c
+  - enabled: 1
+    path: Assets/Scenes/BattleTown.unity
+    guid: eff8ca4e02fb7e24da20d72295faa2e6
+  - enabled: 1
+    path: Assets/Scenes/BattleGrassland.unity
+    guid: 3837961a4c6019a4aaab8ace41592f9a
+  - enabled: 1
+    path: Assets/Scenes/BattleForest.unity
+    guid: 07792f081b7395649abe84cf8a2c0352
   m_configObjects: {}
